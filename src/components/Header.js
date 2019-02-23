@@ -7,6 +7,8 @@ export default class Header extends Component {
     return (
       <Fragment>
         <div className='header'>
+
+          <div className='green-box'>box</div>
           
           <p>Header</p>
 
